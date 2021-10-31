@@ -1,3 +1,6 @@
+import requests
+import pandas as pd
+
 class SpotifyClient:
     """SpotifyClient performs operations using the Spotify API."""
 
